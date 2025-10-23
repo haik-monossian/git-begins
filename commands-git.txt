@@ -8,11 +8,14 @@ git push
 git pull (pour récupérer)
 
 
-git branch "nom de la branche" (créer une branche)
+BRANCHES:
+1/ git branch "nom de la branche" (créer une branche)
 
-git checkout "nom de la branche" (aller sur une branche)
+2/ git checkout "nom de la branche" (aller sur une branche)
 
-git checkout -b "nom de la branche" (créer et aller sur la branche)
+2.1/ git checkout -b "nom de la branche" (créer et aller sur la branche)
+
+3/ git push -u origin nom-de-la-branche
 
 git branch (pour voir toutes les branches)
 
